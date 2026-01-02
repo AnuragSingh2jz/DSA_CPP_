@@ -106,4 +106,4 @@ g++ some_array_problem.cpp -o problem
 ## Owner
 
 *   **Name**: Anurag Singh
-*   **GitHub**: [anurag9140chauhan](https://github.com/anurag9140chauhan)
+*   **GitHub**: [anuragSingh2jz](https://github.com/anuragsingh2jz)
