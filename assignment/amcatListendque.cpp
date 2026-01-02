@@ -1,6 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 vector<string> dec_to_binery(int x){
+    string s="";
+    while(x>=1){
+        int a = x%2;
+        if(a == 1) s='1'+s;
+        else s='0'+s;
+        x/=2;
+    }
     
 }
 int main (){
