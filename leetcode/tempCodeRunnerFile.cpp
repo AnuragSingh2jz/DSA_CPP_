@@ -1,1 +1,0 @@
- invert(matrix,i,j); break;
