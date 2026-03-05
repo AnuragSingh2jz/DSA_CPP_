@@ -15,7 +15,7 @@ class Disjointset{
         return parent[node] = FindUnionPair(parent[node]);
     }
 
-    void UnionByRank(int u,int v){
+    void UnionByRank(int u,int  v){
         int ulp_u = FindUnionPair(u);
         int ulp_v = FindUnionPair(v);
         if(ulp_u == ulp_v) return ;
